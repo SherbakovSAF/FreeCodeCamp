@@ -1,3 +1,161 @@
+// Lesson 90
+function phoneticLookup(val) {
+     let result = "";
+     
+     result = val;
+     debugger
+     // Only change code below this line
+       const objectArr = {
+       alpha: "Adams",
+       bravo: "Boston",
+       alpha: "Chicago",
+       delta: "Denver",
+       echo: "Easy",
+       foxtrot: "Frank",
+     }
+     
+     result = lookup.val
+   
+     // Only change code above this line
+     return objectArr;
+   }
+// -----------------------------------------------------------------
+// Lesson 89
+// Setup
+// const myDog = {
+//      "name": "Happy Coder",
+//      "legs": 4,
+//      "tails": 1,
+//      "friends": ["freeCodeCamp Campers"],
+//      "bark": "woof"
+//    };
+   
+//    // Only change code below this line
+   
+//    delete myDog.tails
+// -----------------------------------------------------------------
+// Lesson 88
+// const myDog = {
+//      "name": "Happy Coder",
+//      "legs": 4,
+//      "tails": 1,
+//      "friends": ["freeCodeCamp Campers"]
+//    };
+   
+//    myDog.bark = 'gaw'
+   
+// -----------------------------------------------------------------
+// Lesson 87
+// // Setup
+// const myDog = {
+//      "name": "Coder",
+//      "legs": 4,
+//      "tails": 1,
+//      "friends": ["freeCodeCamp Campers"]
+//    };
+   
+//    // Only change code below this line
+//    myDog.name = "Happy Coder"
+   
+// -----------------------------------------------------------------
+// Lesson 86
+// Setup
+// const testObj = {
+//      12: "Namath",
+//      16: "Montana",
+//      19: "Unitas"
+//    };
+   
+//    // Only change code below this line
+//    const playerNumber = 16;  // Change this line
+//    const player = testObj[playerNumber];   // Change this line
+// -----------------------------------------------------------------
+// Lesson 85
+// Setup
+// const testObj = {
+//      "an entree": "hamburger",
+//      "my side": "veggies",
+//      "the drink": "water"
+//    };
+   
+//    // Only change code below this line
+//    const entreeValue = testObj["an entree"];   // Change this line
+//    const drinkValue = testObj["the drink"];    // Change this line
+// -----------------------------------------------------------------
+// Lesson 84
+// Setup
+// const testObj = {
+//      "hat": "ballcap",
+//      "shirt": "jersey",
+//      "shoes": "cleats"
+//    };
+   
+//    // Only change code below this line
+//    const hatValue = testObj.hat;      // Change this line
+//    const shirtValue = testObj.shirt;    // Change this line
+// -----------------------------------------------------------------
+// Lesson 83
+// const myDog = {
+//      // Only change code below this line
+//      name: 'Boy',
+//      legs: 4,
+//      tails: 4,
+//      friends: [],
+   
+//      // Only change code above this line
+//    };
+// -----------------------------------------------------------------
+// Lesson 82
+// const myDog = {
+//      // Only change code below this line
+//      name: 'Boy',
+//      legs: 4,
+//      tails: 4,
+//      friends: [],
+   
+//      // Only change code above this line
+//    };
+// -----------------------------------------------------------------
+// Lesson 81
+// let count = 0;
+
+// function cc(card) {
+//   // Only change code below this line
+// switch(card) {
+//   case 2:
+//   case 3:
+//   case 4:
+//   case 5:
+//   case 6: {
+//     count++;
+//     break;
+//   }
+//   case 7:
+//   case 8:
+//   case 9:{
+//     count = count;
+//     break;
+//   }
+//   case 10:
+//   case "J":
+//   case "Q":
+//   case "K":
+//   case "A":{
+//     count--;
+//     break;
+//   }
+// }
+// if (count > 0) {
+//   return count + " Bet"
+// } else {
+//   return count + " Hold"
+// }
+
+ 
+//   // Only change code above this line
+// }
+
+// cc(2); cc(3); cc(7); cc('K'); cc('A');
 // Lesson 80
 // Setup
 // function abTest(a, b) {
