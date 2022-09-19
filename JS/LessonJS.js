@@ -1,16 +1,143 @@
-// Lesson 91
-function checkObj(obj, checkProp) {
+// Lesson 100
+function multiplyAll(arr) {
+  let product = 1;
   // Only change code below this line
-  if (obj.hasOwnProperty(checkProp)) {
-    debugger;
-    return obj[checkProp];
-    
-  } else {
-    return "Not Found"
+for (let i = 0; i < arr.length; i++) {
+  for (let j = 0; j < arr[i].length; j++) {
+    product = product * arr[i][j]
+    console.log(product);
   }
-  
-  // Only change code above this line
 }
+  // Only change code above this line
+  return product;
+}
+
+multiplyAll([[1, 2], [3, 4], [5, 6, 7]]);
+
+
+
+multiplyAll([[1, 2], [3, 4], [5, 6, 7]]);
+// // -----------------------------------------------------------------
+// Lesson 99
+// const myArr = [2, 3, 4, 5, 6];
+// let total = 0
+// for (let i = 0; i < myArr.length; i++) {
+//   total = total + myArr[i]
+//    console.log(total);
+// }
+// // -----------------------------------------------------------------
+// // Lesson 98
+// const myArray = [];
+// for (let i = 9; i >= 1; i -= 2) {
+//   myArray.push(i);
+// }
+// -----------------------------------------------------------------
+// const myArray = [];
+// for (let i = 9; i <1; i = i - 2) {
+//   myArray.push(i)
+// }
+// Only change code below this line
+
+// Only change code below this line
+
+// Lesson 97
+// // Setup
+// const myArray = [];
+
+// // Only change code below this line
+// for (let i = 1; i <= 5; i++) {
+//   myArray.push(i)
+// }
+
+// -----------------------------------------------------------------
+// Lesson 96
+// Setup
+// const myArray = [];
+// let i = 5;
+// while (i>=0) {
+//   myArray.push(i);
+//   i--
+// }
+// // Only change code below this line
+// -----------------------------------------------------------------
+// Lesson 95
+// Я не смог понять что там говорят эти англичяне
+// -----------------------------------------------------------------
+// Lesson 94
+// const myPlants = [
+//   {
+//     type: "flowers",
+//     list: [
+//       "rose",
+//       "tulip",
+//       "dandelion"
+//     ]
+//   },
+//   {
+//     type: "trees",
+//     list: [
+//       "fir",
+//       "pine",
+//       "birch"
+//     ]
+//   }
+// ];
+
+// const secondTree = myPlants[1].list[1];
+// -----------------------------------------------------------------
+// Lesson 93
+// const myStorage = {
+//   "car": {
+//     "inside": {
+//       "glove box": "maps",
+//       "passenger seat": "crumbs"
+//      },
+//     "outside": {
+//       "trunk": "jack"
+//     }
+//   }
+// };
+
+// const gloveBoxContents = myStorage.car.inside["glove box"];
+// -----------------------------------------------------------------
+// Lesson 92
+// const myMusic = [
+//   {
+//     "artist": "Billy Joel",
+//     "title": "Piano Man",
+//     "release_year": 1973,
+//     "formats": [
+//       "CD",
+//       "8T",
+//       "LP"
+//     ],
+//     "gold": true
+//   },
+//   {
+//     "artist": "Billy Joel",
+//     "title": "Piano Man",
+//     "release_year": 1973,
+//     "formats": [
+//       "CD",
+//       "8T",
+//       "LP"
+//     ],
+//   }
+// ];
+// -----------------------------------------------------------------
+// Lesson 91
+// function checkObj(obj, checkProp) {
+//   // Only change code below this line
+//   if (obj.hasOwnProperty(checkProp)) {
+//     debugger;
+//     return obj[checkProp];
+    
+//   } else {
+//     return "Not Found"
+//   }
+  
+//   // Only change code above this line
+// }
 
 // -----------------------------------------------------------------
 // Lesson 90
