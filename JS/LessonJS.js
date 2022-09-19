@@ -1,24 +1,39 @@
+// Lesson 91
+function checkObj(obj, checkProp) {
+  // Only change code below this line
+  if (obj.hasOwnProperty(checkProp)) {
+    debugger;
+    return obj[checkProp];
+    
+  } else {
+    return "Not Found"
+  }
+  
+  // Only change code above this line
+}
+
+// -----------------------------------------------------------------
 // Lesson 90
-function phoneticLookup(val) {
-     let result = "";
-     
-     result = val;
-     debugger
-     // Only change code below this line
-       const objectArr = {
-       alpha: "Adams",
-       bravo: "Boston",
-       alpha: "Chicago",
-       delta: "Denver",
-       echo: "Easy",
-       foxtrot: "Frank",
-     }
-     
-     result = lookup.val
-   
-     // Only change code above this line
-     return objectArr;
-   }
+// Setup
+// function phoneticLookup(val) {
+//   let result = "";
+
+//   // Only change code below this line
+//   let lookup = {
+//        alpha: "Adams",
+//        bravo: "Boston",
+//        charlie: "Chicago",
+//        delta: "Denver",
+//        echo: "Easy",
+//        foxtrot: "Frank",
+//      }
+//      result = lookup[val]
+
+//   // Only change code above this line
+//   return result;
+// }
+
+// phoneticLookup("charlie");
 // -----------------------------------------------------------------
 // Lesson 89
 // Setup
