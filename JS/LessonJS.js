@@ -1,4 +1,130 @@
+// Lesson 112
+// function rangeOfNumbers(startNum, endNum) {
+//   if(endNum < startNum) {
+//     return []
+//   } else {
+//     let countArray = rangeOfNumbers(startNum + 1, endNum )
+//     countArray.unshift(startNum)
+//     return countArray
+//   }
+// };
+// // -----------------------------------------------------------------
+// Lesson 111
+// function countdown(n){
+//   if (n < 1) {
+//     return [];
+//   } else {
+//     const countArray = countdown(n - 1);
+//     countArray.unshift(n);
+//     return countArray;
+//   }
+// }
+// // -----------------------------------------------------------------
+// Lesson 110
+// function checkSign(num) {
+//   return (num < 0) ? "negative" : (num > 0) ? "positive" : "zero" 
+//   }
+  
+//   checkSign(10);
+// // -----------------------------------------------------------------
+// Lesson 109
+// function checkEqual(a, b) {
+//   return a == b ? 'Equal' : 'Not Equal'
+// }
+
+// checkEqual(1, 2);
+// // -----------------------------------------------------------------
+// Lesson 108
+// function convertToInteger(str) {
+//   return parseInt(str, 2)
+//   }
+  
+//   convertToInteger("10011");
+// // -----------------------------------------------------------------
+// Lesson 107
+// function convertToInteger(str) {
+//   return parseInt(str)
+// }
+// // -----------------------------------------------------------------
+// Lesson 106
+// function randomRange(myMin, myMax) {
+//   // Only change code below this line
+//   return Math.floor(Math.random() * (myMax - myMin + 1)) + myMin;
+//   // Only change code above this line
+// }
+// // -----------------------------------------------------------------
+// Lesson 105
+// function randomWholeNum() {
+//   return Math.floor( Math.random()*10);
+// }
+// // -----------------------------------------------------------------
+// Lesson 104
+// function randomFraction() {
+//   return Math.random();
+// }
+// // -----------------------------------------------------------------
+// Lesson 103
+// Я был бы рад увидеть более короткое решение
+// const contacts = [
+//      {
+//        firstName: "Akira",
+//        lastName: "Laine",
+//        number: "0543236543",
+//        likes: ["Pizza", "Coding", "Brownie Points"],
+//      },
+//      {
+//        firstName: "Harry",
+//        lastName: "Potter",
+//        number: "0994372684",
+//        likes: ["Hogwarts", "Magic", "Hagrid"],
+//      },
+//      {
+//        firstName: "Sherlock",
+//        lastName: "Holmes",
+//        number: "0487345643",
+//        likes: ["Intriguing Cases", "Violin"],
+//      },
+//      {
+//        firstName: "Kristian",
+//        lastName: "Vos",
+//        number: "unknown",
+//        likes: ["JavaScript", "Gaming", "Foxes"],
+//      },
+//    ];
+   
+//    function lookUpProfile(name, prop) {
+//     for (let i = 0; i <= contacts.length; i) {
+//       if (i >= contacts.length) {
+//         return "No such contact"
+//       } else {
+//         if (contacts[i].firstName == name) {
+//           if (contacts[i].hasOwnProperty(prop)) {
+//             let gaga = prop
+            
+//             return contacts[i][gaga]
+            
+//           } else {
+//             return "No such property"
+//           }
+//         } else {
+//           i++
+//         }
+//       }
+//     }
+//    }
+//    console.log(lookUpProfile("Kristian", "s"))
+//    console.log(contacts[1].firstName)
+// // -----------------------------------------------------------------
 // Lesson 102
+// function sum(arr, n) {
+//      // Only change code below this line
+//        if (n <= 0) {
+//          return 0;
+//        } else {
+//          return sum(arr, n - 1) + arr[n - 1];
+//        }
+     // Only change code above this line
+//    }
 // // -----------------------------------------------------------------
 // Lesson 101
 // const myArray = [];
