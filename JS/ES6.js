@@ -1,3 +1,31 @@
+// Lesson 22
+
+// --------------------------------------------------------
+// Lesson 21
+// import {uppercaseString , lowercaseString} from './string_functions.js';
+// uppercaseString("hello");
+// lowercaseString("WORLD!");
+// --------------------------------------------------------
+// Lesson 20
+// const uppercaseString = (string) => {
+//      return string.toUpperCase();
+//    }
+   
+//    const lowercaseString = (string) => {
+//      return string.toLowerCase()
+//    }
+   
+//    export {uppercaseString, lowercaseString}
+// --------------------------------------------------------
+// Lesson 19
+/* <html>
+  <body>
+    <!-- Only change code below this line -->
+<script type="module" src="index.js"></script>
+    <!-- Only change code above this line -->
+  </body>
+</html> */
+// --------------------------------------------------------
 // Lesson 18
 // class Thermostat {
 //      constructor(fahrenheit) {
