@@ -1,5 +1,18 @@
+// Lesson 24
+// import subtract from "./math_functions.js";
+// subtract(7,4);
+// --------------------------------------------------------
+// Lesson 23
+// export default function subtract(x, y) {
+//      return x - y;
+//    }   
+// --------------------------------------------------------
 // Lesson 22
+// import * as stringFunctions from "./string_functions.js"
+// // Only change code above this line
 
+// stringFunctions.uppercaseString("hello");
+// stringFunctions.lowercaseString("WORLD!");
 // --------------------------------------------------------
 // Lesson 21
 // import {uppercaseString , lowercaseString} from './string_functions.js';
