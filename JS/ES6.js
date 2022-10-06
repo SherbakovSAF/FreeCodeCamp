@@ -1,3 +1,51 @@
+// Lesson 28
+// const makeServerRequest = new Promise((resolve, reject) => {
+//      makeServerRequest.catch(error => {
+//        console.log(error)
+//      });
+//      let responseFromServer = false;
+       
+//      if(responseFromServer) {
+//        resolve("We got the data");
+//      } else {  
+//        reject("Data not received");
+//      }
+//    });
+   
+//    makeServerRequest.then(result => {
+//      console.log(result);
+//    });
+// --------------------------------------------------------
+// Lesson 27
+// const makeServerRequest = new Promise((resolve, reject) => {
+//      makeServerRequest.then(result => {
+//      console.log(result)
+//    });
+//      let responseFromServer = true;
+       
+//      if(responseFromServer) {
+//        resolve("We got the data");
+//      } else {  
+//        reject("Data not received");
+//      }
+//    });
+// --------------------------------------------------------
+// Lesson 26
+// const makeServerRequest = new Promise((resolve, reject) => {
+//      // responseFromServer represents a response from a server
+//      let responseFromServer;
+       
+//      if(responseFromServer) {
+//        resolve('We got the data')
+//      } else {  
+//        reject("Data not received");
+//      }
+//    });
+// --------------------------------------------------------
+// Lesson 25
+// const makeServerRequest = new Promise((resolve, reject)=> {
+// })
+// --------------------------------------------------------
 // Lesson 24
 // import subtract from "./math_functions.js";
 // subtract(7,4);
