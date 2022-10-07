@@ -1,3 +1,14 @@
+// Lesson 12
+// let difficultSpelling = "Mississippi";
+// let myRegex = /ss+/g; // Change this line
+// let result = difficultSpelling.match(myRegex);
+// --------------------------------------------------------
+// Lesson 11
+// let quoteSample = "3 blind mice.";
+// let myRegex = /[^aeiou0-9]/gi; // Change this line
+// let result = quoteSample.match(myRegex); // Change this line
+// console.log(result)
+// --------------------------------------------------------
 // Lesson 10
 // let quoteSample = "Blueberry 3.141592653s are delicious.";
 // let myRegex = /[2-6h-s]/gi; // Change this line
