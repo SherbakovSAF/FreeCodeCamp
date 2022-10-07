@@ -1,3 +1,16 @@
+// Lesson 8
+
+// --------------------------------------------------------
+// Lesson 7
+// let exampleStr = "Let's have fun with regular expressions!";
+// let unRegex = /.un/; // Change this line
+// let result = unRegex.test(exampleStr);
+// --------------------------------------------------------
+// Lesson 6
+// let twinkleStar = "Twinkle, twinkle, little star";
+// let starRegex = /Twinkle/gi; // Change this line
+// let result = twinkleStar.match(starRegex); // Change this line
+// --------------------------------------------------------
 // Lesson 5
 // let extractStr = "Extract the word 'coding' from this string.";
 // let codingRegex = /coding/; // Change this line
