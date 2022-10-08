@@ -1,5 +1,5 @@
 // Lesson 15
-
+// let reCriminals = /C+/; // Change this line
 // --------------------------------------------------------
 // Lesson 14
 // let text = "<h1>Winter is coming</h1>";
