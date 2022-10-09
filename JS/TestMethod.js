@@ -1,3 +1,8 @@
+// Lesson 19
+// let quoteSample = "The five boxing wizards jump quickly.";
+// let nonAlphabetRegex = /\W/g; // Change this line
+// let result = quoteSample.match(nonAlphabetRegex).length;
+// --------------------------------------------------------
 // Lesson 18
 // let quoteSample = "The five boxing wizards jump quickly.";
 // let alphabetRegexV2 = /\w/g; // Change this line
