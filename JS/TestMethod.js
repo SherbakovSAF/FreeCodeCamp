@@ -1,3 +1,11 @@
+// Lesson 22
+
+// --------------------------------------------------------
+// Lesson 21
+// let movieName = "2001: A Space Odyssey";
+// let noNumRegex = /\D/g; // Change this line
+// let result = movieName.match(noNumRegex).length;
+// --------------------------------------------------------
 // Lesson 20
 // let movieName = "2001: A Space Odyssey";
 // let numRegex = /\d/g; // Change this line
