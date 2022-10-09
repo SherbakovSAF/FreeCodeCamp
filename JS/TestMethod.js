@@ -1,3 +1,8 @@
+// Lesson 20
+// let movieName = "2001: A Space Odyssey";
+// let numRegex = /\d/g; // Change this line
+// let result = movieName.match(numRegex).length;
+// --------------------------------------------------------
 // Lesson 19
 // let quoteSample = "The five boxing wizards jump quickly.";
 // let nonAlphabetRegex = /\W/g; // Change this line
