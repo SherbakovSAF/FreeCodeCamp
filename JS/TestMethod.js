@@ -1,8 +1,13 @@
+
+// Lesson 17
+// let caboose = "The last car on a train is the caboose";
+// let lastRegex = /caboose$/; // Change this line
+// let result = lastRegex.test(caboose);
 // Lesson 16
-let rickyAndCal = "Cal and Ricky both like racing.";
-let calRegex = /^Cal/; // Change this line
-let result = calRegex.test(rickyAndCal);
-console.log(result)
+// let rickyAndCal = "Cal and Ricky both like racing.";
+// let calRegex = /^Cal/; // Change this line
+// let result = calRegex.test(rickyAndCal);
+// console.log(result)
 // --------------------------------------------------------
 // Lesson 15
 // let reCriminals = /C+/; // Change this line
