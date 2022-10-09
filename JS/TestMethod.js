@@ -1,8 +1,13 @@
-
+// Lesson 18
+// let quoteSample = "The five boxing wizards jump quickly.";
+// let alphabetRegexV2 = /\w/g; // Change this line
+// let result = quoteSample.match(alphabetRegexV2).length;
+// --------------------------------------------------------
 // Lesson 17
 // let caboose = "The last car on a train is the caboose";
 // let lastRegex = /caboose$/; // Change this line
 // let result = lastRegex.test(caboose);
+// --------------------------------------------------------
 // Lesson 16
 // let rickyAndCal = "Cal and Ricky both like racing.";
 // let calRegex = /^Cal/; // Change this line
