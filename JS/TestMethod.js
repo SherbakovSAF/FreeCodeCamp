@@ -1,3 +1,13 @@
+// Lesson 30
+// let favWord = "favorite";
+// let favRegex = /favou?/; // Change this line
+// let result = favRegex.test(favWord);
+// --------------------------------------------------------
+// Lesson 29
+// let timStr = "Timmmmber";
+// let timRegex = /Tim{4}ber/; // Change this line
+// let result = timRegex.test(timStr);
+// --------------------------------------------------------
 // Lesson 28
 // let timStr = "Timmmmber";
 // let timRegex = /Tim{4}ber/; // Change this line
