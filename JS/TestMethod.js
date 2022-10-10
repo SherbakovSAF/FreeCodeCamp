@@ -1,3 +1,13 @@
+// Lesson 28
+// let timStr = "Timmmmber";
+// let timRegex = /Tim{4}ber/; // Change this line
+// let result = timRegex.test(timStr);
+// --------------------------------------------------------
+// Lesson 27
+// let haStr = "Hazzzzah";
+// let haRegex = /Haz{4,}ah/; // Change this line
+// let result = haRegex.test(haStr);
+// --------------------------------------------------------
 // Lesson 26
 // let ohStr = "Ohhh no";
 // let ohRegex = /Oh{3,6} no/; // Change this line
