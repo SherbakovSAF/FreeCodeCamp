@@ -1,5 +1,7 @@
 // Lesson 2
-
+// let output = "Get this to show once in the freeCodeCamp console and not at all in the browser console";
+// console.log(output)
+// console.clear()
 // --------------------------------------------------------
 // Lesson 1
 // let a = 5;
