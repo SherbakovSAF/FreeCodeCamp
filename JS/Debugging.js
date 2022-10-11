@@ -1,5 +1,11 @@
-// Lesson 4
+// Lesson 5
 
+// --------------------------------------------------------
+// Lesson 4
+// let receivables = 10;
+// let payables = 8;
+// let netWorkingCapital = receivables - payables;
+// console.log(`Net working capital is: ${netWorkingCapital}`);
 // --------------------------------------------------------
 // Lesson 3
 // let seven = 7;
