@@ -1,4 +1,9 @@
+// Lesson 34
 
+// --------------------------------------------------------
+// Lesson 33
+
+// --------------------------------------------------------
 // Lesson 32
 // let myString = "Eleanor Roosevelt";
 // let myRegex = /(Franklin|Eleanor)( | .. )Roosevelt/gi; // Change this line
