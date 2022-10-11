@@ -1,3 +1,12 @@
+
+// Lesson 32
+// let myString = "Eleanor Roosevelt";
+// let myRegex = /(Franklin|Eleanor)( | .. )Roosevelt/gi; // Change this line
+// let result = myRegex.test(myString); // Change this line
+// --------------------------------------------------------
+// Lesson 31
+
+// --------------------------------------------------------
 // Lesson 30
 // let favWord = "favorite";
 // let favRegex = /favou?/; // Change this line
