@@ -1,3 +1,24 @@
+// Lesson 8
+
+// --------------------------------------------------------
+// Lesson 7
+// function forecast(arr) {
+//   return arr.slice(2,4);
+// }
+// console.log(forecast(['cold', 'rainy', 'warm', 'sunny', 'cool', 'thunderstorms']));
+// --------------------------------------------------------
+// Lesson 6
+// function htmlColorNames(arr) {
+//    arr.splice(0,2, 'DarkSalmon', 'BlanchedAlmond')
+//      return arr;
+//    }
+//    console.log(htmlColorNames(['DarkGoldenRod', 'WhiteSmoke', 'LavenderBlush', 'PaleTurquoise', 'FireBrick']));
+// --------------------------------------------------------
+// Lesson 5
+// const arr = [2, 4, 5, 1, 7, 5, 2, 1];
+// arr.splice(1, 4)
+// console.log(arr);
+// --------------------------------------------------------
 // Lesson 4
 // function popShift(arr) {
 //      let popped = arr.pop(); // Change this line
