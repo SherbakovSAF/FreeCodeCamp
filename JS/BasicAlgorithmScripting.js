@@ -1,3 +1,33 @@
+
+// --------------------------------------------------------
+// Lesson 7
+// function repeatStringNumTimes(str, num) {
+//      let stroke = ''
+//      for(let i=1; i<=num; i++){
+//        stroke = stroke + str
+//      }
+//      return stroke;
+//    }
+   
+//    repeatStringNumTimes("abc", 3);
+// --------------------------------------------------------
+// Lesson 6
+// function confirmEnding(str, target) {
+//      return str.slice(-target.length) == target
+//    }
+//    console.log(confirmEnding("Bastian", "an"))
+// --------------------------------------------------------
+// Lesson 5
+// function largestOfFour(arr) {
+//      let array = []
+//      for(let i = 0; i < arr.length; i++) {
+//           array.push(Math.max(...arr[i]))
+//      }
+//      return array
+//    }
+   
+//    console.log(largestOfFour([[4, 5, 1, 3], [13, 27, 18, 26], [32, 35, 37, 39], [1000, 1001, 857, 1]]))
+// --------------------------------------------------------
 // Lesson 4
 // function findLongestWordLength(str) {
 //      let count = 0;
