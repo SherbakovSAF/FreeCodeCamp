@@ -1,4 +1,12 @@
 
+// Lesson 11
+// function titleCase(str) {
+//      return str.toLowerCase().split(' ').map(x => x[0].toUpperCase() + x.slice(1)).join(' ')
+// }
+
+// titleCase("I'm a little tea pot");
+// --------------------------------------------------------
+
 // Lesson 10
 // function booWho(bool) {
 //      return typeof bool == "boolean"
