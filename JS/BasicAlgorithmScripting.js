@@ -1,4 +1,15 @@
 
+// Lesson 16
+// function chunkArrayInGroups(arr, size) {
+//      let localArray = [];
+//      for(let i =0; i <arr.length ; i+=size) {
+//           localArray.push(arr.slice(i, i + size))
+//      }
+//      return localArray;
+//    }
+   
+// console.log(chunkArrayInGroups([0, 1, 2, 3, 4, 5, 6], 3))
+// --------------------------------------------------------
 // Lesson 15
 // function mutation(arr) {
 //      let arrayMain = arr[0].toLowerCase();
