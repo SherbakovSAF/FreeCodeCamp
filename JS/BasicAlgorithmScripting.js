@@ -1,4 +1,17 @@
 
+// Lesson 15
+// function mutation(arr) {
+//      let arrayMain = arr[0].toLowerCase();
+//      let arrayTest = arr[1].toLowerCase();
+//      for (let i = 0; i< arrayTest.length; i++){
+//           if (arrayMain.indexOf(arrayTest[i]) < 0){
+//           return false
+//      }
+//      }
+//      return true
+//    }
+// console.log(mutation(["Mary", "Army"]))
+// --------------------------------------------------------
 // Lesson 14
 // function getIndexToIns(arr, num) {
 //      return arr.filter(x => x < num).length
