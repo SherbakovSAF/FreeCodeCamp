@@ -1,4 +1,15 @@
 
+// Lesson 12
+// function frankenSplice(arr1, arr2, n) {
+//      let localArray = [...arr1]
+//      let piece = arr2.slice(0, n)
+//      localArray.unshift(...piece)
+//      let piece2 = arr2.slice(n, arr2.length)
+//      localArray.push(...piece2)
+//      return localArray;
+//    }
+// console.log(frankenSplice([1, 2, 3], [4, 5, 6], 1))
+// --------------------------------------------------------
 // Lesson 11
 // function titleCase(str) {
 //      return str.toLowerCase().split(' ').map(x => x[0].toUpperCase() + x.slice(1)).join(' ')
