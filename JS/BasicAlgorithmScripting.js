@@ -1,4 +1,10 @@
 
+// Lesson 14
+// function getIndexToIns(arr, num) {
+//      return arr.filter(x => x < num).length
+//    }
+//    console.log(getIndexToIns([2, 20, 10], 19))
+// --------------------------------------------------------
 // Lesson 13
 // function bouncer(arr) {
 //      let newArray = [];
