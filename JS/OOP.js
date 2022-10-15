@@ -1,3 +1,187 @@
+
+// Lesson 24
+
+// --------------------------------------------------------
+// Lesson 24
+
+// --------------------------------------------------------
+// Lesson 26
+// let funModule = (function () {
+//     return {
+//         isCuteMixin: function (obj) {
+//             obj.isCute = function () {
+//                 return true;
+//             };
+//         },
+//         singMixin: function (obj) {
+//             obj.sing = function () {
+//                 console.log("Singing to an awesome tune");
+//             };
+//         },
+//     };
+// })();
+// --------------------------------------------------------
+// Lesson 25
+// (function() {
+//      console.log("A cozy nest is ready");
+//    })()   
+// --------------------------------------------------------
+// Lesson 24
+// function Bird() {
+//      let weight = 15;
+   
+//      this.getWeight = function(){
+//        return weight
+//      }
+//    }
+// --------------------------------------------------------
+// Lesson 23
+// let bird = {
+//      name: "Donald",
+//      numLegs: 2
+//    };
+   
+//    let boat = {
+//      name: "Warrior",
+//      type: "race-boat"
+//    };
+   
+//    // Only change code below this line
+   
+//    let glideMixin = function(obj){
+//      obj.glide = function() {
+//        console.log('Flying, wooosh!')
+//      }
+//    }
+   
+//    glideMixin(boat)
+//    glideMixin(bird)
+// --------------------------------------------------------
+// Lesson 22
+// function Bird() { }
+
+// Bird.prototype.fly = function() { return "I am flying!"; };
+
+// function Penguin() { }
+// Penguin.prototype = Object.create(Bird.prototype);
+// Penguin.prototype.constructor = Penguin;
+
+// // Only change code below this line
+
+// Penguin.prototype.fly = function() {
+//   return "Alas, this is a flightless bird."
+// }
+
+// // Only change code above this line
+
+// let penguin = new Penguin();
+// console.log(penguin.fly());
+// --------------------------------------------------------
+// Lesson 21
+// function Animal() { }
+// Animal.prototype.eat = function() { console.log("nom nom nom"); };
+
+// function Dog() { }
+
+// // Only change code below this line
+// Dog.prototype = Object.create(Animal.prototype)
+// Dog.prototype.constructor = Dog
+// Dog.prototype.bark = function() {
+//   console.log("Woof!") 
+// }
+
+// // Only change code above this line
+
+// let beagle = new Dog();
+
+// --------------------------------------------------------
+// Lesson 20
+// function Animal() { }
+// function Bird() { }
+// function Dog() { }
+
+// Bird.prototype = Object.create(Animal.prototype);
+// Dog.prototype = Object.create(Animal.prototype);
+
+// // Only change code below this line
+
+// Bird.prototype.constructor = Bird;
+// Dog.prototype.constructor = Dog;
+
+// let duck = new Bird();
+// let beagle = new Dog();
+// --------------------------------------------------------
+// Lesson 19
+// function Animal() { }
+
+// Animal.prototype = {
+//   constructor: Animal,
+//   eat: function() {
+//     console.log("nom nom nom");
+//   }
+// };
+
+// function Dog() { }
+
+// // Only change code below this line
+// Dog.prototype = Object.create(Animal.prototype);
+
+// let beagle = new Dog();
+// --------------------------------------------------------
+// Lesson 18
+// function Animal() { }
+
+// Animal.prototype = {
+//   constructor: Animal,
+//   eat: function() {
+//     console.log("nom nom nom");
+//   }
+// };
+
+// // Only change code below this line
+
+// let duck = Object.create(Animal.prototype); // Change this line
+// let beagle = Object.create(Animal.prototype); // Change this line
+// --------------------------------------------------------
+// Lesson 17
+// function Cat(name) {
+//      this.name = name;
+//    }
+   
+//    Cat.prototype = {
+//      constructor: Cat,
+//    };
+   
+//    function Bear(name) {
+//      this.name = name;
+//    }
+   
+//    Bear.prototype = {
+//      constructor: Bear,
+//    };
+   
+//    function Animal() { }
+   
+//    Animal.prototype = {
+//      constructor: Animal,
+//      eat: function() {
+//        console.log("nom nom nom");
+//      }
+//    };
+// --------------------------------------------------------
+// Lesson 16
+// function Dog(name) {
+//      this.name = name;
+//    }
+   
+//    let beagle = new Dog("Snoopy");
+   
+//    Dog.prototype.isPrototypeOf(beagle);  // yields true
+   
+//    // Fix the code below so that it evaluates to true
+   
+//    Object.prototype.isPrototypeOf(Dog.prototype);
+// --------------------------------------------------------
 // Lesson 15
 // function Dog(name) {
 //      this.name = name;
