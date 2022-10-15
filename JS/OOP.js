@@ -1,4 +1,20 @@
 
+// Lesson 13
+// function Dog(name) {
+//      this.name = name;
+//    }
+   
+//    Dog.prototype = {
+//      // Only change code below this line
+//      numLegs: 2,
+//      eat: function() {
+   
+//      },
+//      describe: function() {
+       
+//      }
+//    };
+// --------------------------------------------------------
 // Lesson 12
 // function Dog(name) {
 //      this.name = name;
