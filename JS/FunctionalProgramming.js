@@ -1,3 +1,19 @@
+// Lesson 5
+// --------------------------------------------------------
+// Lesson 4
+// The global variable
+// let fixedValue = 4;
+
+// function incrementer() {
+//   // Only change code below this line
+// return fixedValue + 1
+
+//   // Only change code above this line
+// }
+// --------------------------------------------------------
+// Lesson 3
+
+// --------------------------------------------------------
 // Lesson 2
 // // Function that returns a string representing a cup of green tea
 // const prepareGreenTea = () => 'greenTea';
