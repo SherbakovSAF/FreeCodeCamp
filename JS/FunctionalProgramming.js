@@ -1,4 +1,36 @@
+// Lesson 7
+// --------------------------------------------------------
+// Lesson 6
+// // The global variable
+// const bookList = [
+//     "The Hound of the Baskervilles",
+//     "On The Electrodynamics of Moving Bodies",
+//     "Philosophiæ Naturalis Principia Mathematica",
+//     "Disquisitiones Arithmeticae",
+// ];
 
+// // Change code below this line
+// function add(bookName, stroke) {
+//     let newArray = [];
+//     bookName.map((e) => newArray.push(e));
+//     newArray.push(stroke);
+//     return newArray;
+
+//     // Change code above this line
+// }
+
+// // Change code below this line
+// function remove(bookName, stroke) {
+//     let newArray = [];
+//     bookName.forEach((e) => {
+//         if (e != stroke) {
+//             newArray.push(e);
+//         }
+//     });
+//     return newArray;
+// }
+
+// --------------------------------------------------------
 // Lesson 5
 // The global variable
 // let fixedValue = 4;
