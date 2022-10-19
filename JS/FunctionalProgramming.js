@@ -1,4 +1,17 @@
+// Lesson 16
+// const squareList = arr => {
+//    // Only change code below this line
+//    let integerArray = arr.filter(e => e % 1 == 0).filter(e=> e>=0)
+//    // Only change code above this line
+//    return integerArray.map(e=> e * e)
+//  };
+ 
+//  const squaredIntegers = squareList([-3, 4.8, 5, 3, -3.2]);
+//  console.log(squaredIntegers);
+// --------------------------------------------------------
+// Lesson 15
 
+// --------------------------------------------------------
 // Lesson 14
 // function nonMutatingPush(original, newItem) {
 //    // Only change code below this line
