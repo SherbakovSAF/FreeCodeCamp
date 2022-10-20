@@ -1,3 +1,12 @@
+// Lesson 21
+// Only change code below this line
+// function urlSlug(title) {
+//    return title.toLowerCase().split(' ').filter(e => e != '').join('-')
+   
+//    }
+//    // Only change code above this line
+//    console.log(urlSlug(" Winter Is  Coming"))
+// --------------------------------------------------------
 // Lesson 20
 // function sentensify(str) {
 //    // Only change code below this line
