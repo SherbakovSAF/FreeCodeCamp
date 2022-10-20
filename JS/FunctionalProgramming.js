@@ -1,3 +1,13 @@
+// Lesson 19
+// function splitify(str) {
+//    // Only change code below this line
+//  return str.split(/\W/)
+ 
+//    // Only change code above this line
+//  }
+ 
+//  console.log(splitify("Hello World,I-am code"))
+// --------------------------------------------------------
 // Lesson 18
 // const globalArray = [5, 6, 3, 2, 9];
 
