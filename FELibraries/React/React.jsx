@@ -1,3 +1,20 @@
+
+// Lesson 6
+// const JSX = (
+//      <div>
+//        <h2>Welcome to React!</h2> <br />
+//        <p>Be sure to close all tags!</p>
+//        <hr />
+//      </div>
+//    );
+// --------------------------------------------------------
+// Lesson 5
+// const JSX = (
+//      <div className="myDiv">
+//        <h1>Add a class to this div</h1>
+//      </div>
+//    );
+// --------------------------------------------------------
 // Lesson 4
 // const JSX = (
 //      <div >
@@ -6,7 +23,7 @@
 //      </div>
 //    );
 //    // Change code below this line
-   
+
 //    ReactDOM.render(JSX, document.getElementById("challenge-node"))
 // --------------------------------------------------------
 // Lesson 3
