@@ -1,3 +1,23 @@
+// Lesson 4
+// const JSX = (
+//      <div >
+//        <h1>Hello World</h1>
+//        <p>Lets render this to the DOM</p>
+//      </div>
+//    );
+//    // Change code below this line
+   
+//    ReactDOM.render(JSX, document.getElementById("challenge-node"))
+// --------------------------------------------------------
+// Lesson 3
+// const JSX = (
+//      <div>
+//        <h1>This is a block of JSX</h1>
+//        <p>Here's a subtitle</p>
+//        {/* Комментарий */}
+//      </div>
+//    );
+// --------------------------------------------------------
 // Lesson 2
 // const JSX = (
 //     <div>
