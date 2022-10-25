@@ -1,4 +1,48 @@
 
+// Lesson 14
+// const CurrentDate = (props) => {
+//      return (
+//        <div>
+//          { /* Change code below this line */ }
+//          <p>The current date is: {props.date}</p>
+//          { /* Change code above this line */ }
+//        </div>
+//      );
+//    };
+   
+//    class Calendar extends React.Component {
+//      constructor(props) {
+//        super(props);
+//      }
+//      render() {
+//        return (
+//          <div>
+//            <h3>What date is it?</h3>
+//            { /* Change code below this line */ }
+//            <CurrentDate date={Date()}/>
+//            { /* Change code above this line */ }
+//          </div>
+//        );
+//      }
+//    };
+// --------------------------------------------------------
+// Lesson 13
+// Change code below this line
+// class MyComponent extends React.Component {
+//      constructor(props){
+//        super(props)
+//      }
+//      render() {
+//        return (
+//          <div id='challenge-node'>
+//            <h1>My First React Component!</h1>
+//          </div>
+//        )
+//      }
+//    }
+   
+//    ReactDOM.render(<MyComponent/>, document.getElementById("challenge-node"))
+// --------------------------------------------------------
 // Lesson 12
 // class TypesOfFood extends React.Component {
 //      constructor(props) {
