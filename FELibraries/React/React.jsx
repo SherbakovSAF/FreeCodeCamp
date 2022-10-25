@@ -1,5 +1,70 @@
 
 
+// Lesson 20
+// class CampSite extends React.Component {
+//      constructor(props) {
+//        super(props);
+//      }
+//      render() {
+//        return (
+//          <div>
+//            <Camper />
+//          </div>
+//        );
+//      }
+//    };
+//    // Change code below this line
+//    class Camper extends React.Component {
+//      constructor(props) {
+//        super(props);
+//      }
+//      render() {
+//        return (
+//          <div>
+//            <p>{this.props.name}</p>
+//          </div>
+//        );
+//      }
+//    };
+   
+//    Camper.defaultProps = {
+//      name: "CamperBot"
+//    };
+//    Camper.propTypes = {name: PropTypes.string.isRequired};
+// --------------------------------------------------------
+// Lesson 19
+// class App extends React.Component {
+//      constructor(props) {
+//        super(props);
+   
+//      }
+//      render() {
+//        return (
+//            <div>
+//                { /* Change code below this line */ }
+//                <Welcome name="Sergey"/>
+//                { /* Change code above this line */ }
+//            </div>
+//        );
+//      }
+//    };
+   
+//    class Welcome extends React.Component {
+//      constructor(props) {
+//        super(props);
+   
+//      }
+//      render() {
+//        return (
+//            <div>
+//              { /* Change code below this line */ }
+//              <p>Hello, <strong>{this.props.name}</strong>!</p>
+//              { /* Change code above this line */ }
+//            </div>
+//        );
+//      }
+//    };
+// --------------------------------------------------------
 // Lesson 18
 // const Items = (props) => {
 //      return <h1>Current Quantity of Items in Cart: {props.quantity}</h1>
