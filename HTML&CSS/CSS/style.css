@@ -1,3 +1,13 @@
+/* Lesson 35 */
+.price {
+     text-align: right;
+}
+
+/* Lesson 33 */
+.flavor {
+     text-align: left
+}
+
 /* Lesson 28 */
 body {
      background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
