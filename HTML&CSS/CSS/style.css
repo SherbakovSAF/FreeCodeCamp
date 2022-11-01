@@ -1,3 +1,41 @@
+/* Lesson 25 */
+div {
+     width: 80%;
+     margin-left: auto;
+     margin-right: auto;
+     background-color: burlywood;
+}
+
+/* Lesson 24 */
+div {
+     width: 80%;
+     background-color: burlywood;
+}
+
+/* Lesson 23 */
+div {
+     width: 300px;
+     background-color: burlywood;
+}
+
+/* Lesson 22 */
+/* background-color: burlywood; */
+
+/* Lesson 21 */
+body {
+     background-color: burlywood;
+}
+
+h1,
+h2,
+p {
+     text-align: center;
+}
+
+div {
+     width: 300px;
+}
+
 /* Lesson 19 */
 body {
      background-color: burlywood;
