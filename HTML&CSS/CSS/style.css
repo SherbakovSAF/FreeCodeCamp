@@ -1,3 +1,36 @@
+/* Lesson 60 */
+.established {
+     font-style: italic;
+}
+
+/* Lesson 59 */
+h1,
+h2 {
+     font-family: Impact, serif;
+}
+
+/* Lesson 58 */
+h1,
+h2 {
+     font-family: Impact;
+}
+
+/* Lesson 57 */
+body {
+     font-family: sans-serif;
+     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+}
+
+/* Lesson 56 */
+.menu {
+     width: 80%;
+     background-color: burlywood;
+     margin-left: auto;
+     margin-right: auto;
+     padding: 20px;
+     max-width: 500px;
+}
+
 /* Lesson 55 */
 .menu {
      width: 80%;
