@@ -1,3 +1,15 @@
+/* Lesson 89 */
+img {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+/* Lesson 86 */
+.address {
+     margin-bottom: 5px
+}
+
 /* Lesson 85 */
 h1 {
      font-size: 40px;
