@@ -1,3 +1,39 @@
+/* Lesson 85 */
+h1 {
+     font-size: 40px;
+     margin-top: 0;
+     margin-bottom: 15px;
+}
+
+/* Lesson 84 */
+h1 {
+     font-size: 40px;
+     margin-top: 0px
+}
+
+/* Lesson 83 */
+a:visited {
+     color: black;
+}
+
+a:hover {
+     color: brown;
+}
+
+a:active {
+     color: brown;
+}
+
+/* Lesson 82 */
+a:active {
+     color: white;
+}
+
+/* Lesson 81 */
+a:hover {
+     color: brown
+}
+
 /* Lesson 80 */
 a:visited {
      color: grey;
