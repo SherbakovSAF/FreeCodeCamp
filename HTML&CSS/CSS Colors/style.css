@@ -1,5 +1,32 @@
+/* Lesson 15 */
+.marker {
+     width: 200px;
+     height: 25px;
+     background-color: red;
+     margin: 10px auto;
+}
+
+/* Lesson 13 */
+.marker {
+     width: 200px;
+     height: 25px;
+     background-color: red;
+     margin: auto
+}
+
+/* Lesson 12 */
+.marker {
+     background-color: red;
+     height: 25px;
+     width: 200px;
+}
+
+/* Lesson 11 */
+.marker {
+     background-color: red;
+}
+
 /* Lesson 8 */
 h1 {
      text-align: center;
 }
-
