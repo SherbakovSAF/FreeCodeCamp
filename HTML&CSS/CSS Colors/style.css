@@ -1,12 +1,26 @@
-/* Lesson 40 */
-h1 {
-     text-align: center;
-
+/* Lesson 50 */
+.red {
+     background: linear-gradient(90deg);
 }
 
-/* Lesson 39 */
-.two {
-     background-color: rgb(0, 0, 0);
+/* Lesson 49 */
+.red {
+     background: rgb(255, 0, 0);
+}
+
+/* Lesson 48 */
+.blue {
+     background-color: hsl(240, 100%, 50%);
+}
+
+/* Lesson 47 */
+.green {
+     background-color: #007F00;
+   }
+
+/* Lesson 46 */
+.green {
+     background-color: #00FF00;
 }
 
 /* Lesson 45 */
@@ -45,6 +59,18 @@ h1 {
 }
 
 .three {
+     background-color: rgb(0, 0, 0);
+}
+
+
+/* Lesson 40 */
+h1 {
+     text-align: center;
+
+}
+
+/* Lesson 39 */
+.two {
      background-color: rgb(0, 0, 0);
 }
 
