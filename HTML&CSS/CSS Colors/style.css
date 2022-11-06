@@ -1,3 +1,31 @@
+/* Lesson 65 */
+.red {
+     background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
+}
+
+.green {
+     background: linear-gradient(#55680D, #71F53E, #116C31)
+}
+
+/* Lesson 64 */
+.red {
+     background: linear-gradient(180deg, rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27))
+}
+
+/* Lesson 63 */
+.green {
+     background: linear-gradient(180deg, #55680D, #71F53E, #116C31);
+}
+
+/* Lesson 62 */
+.green {
+     background: linear-gradient(180deg, #55680D, #71F53E);
+}
+
+/* Lesson 61 */
+.green {
+     background: linear-gradient(180deg, #55680D);
+}
 /* Lesson 60 */
 .green {
      background: #007F00;
