@@ -1,3 +1,23 @@
+/* Lesson 69 */
+.blue {
+     background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
+}
+
+/* Lesson 68 */
+.blue {
+     background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%));
+}
+
+/* Lesson 67 */
+.blue {
+     background: linear-gradient(hsl(186, 76%, 16%))
+}
+
+/* Lesson 66 */
+.blue {
+     background: hsl(240, 100%, 50%);
+}
+
 /* Lesson 65 */
 .red {
      background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
