@@ -1,3 +1,48 @@
+/* Lesson 60 */
+input[type="submit"] {
+     display: block;
+     width: 60%;
+     margin: 1em auto;
+     height: 2em;
+     font-size: 1.1rem;
+     background-color: #3b3b4f;
+     border-color: white;
+     min-width: 300px;
+}
+
+/* Lesson 59 */
+input[type="submit"] {
+     display: block;
+     width: 60%;
+     margin: 0 auto;
+     height: 2em;
+     font-size: 1.1rem;
+     background-color: #3b3b4f;
+     border-color: white;
+}
+
+/* Lesson 58 */
+input[type="submit"] {
+     display: block;
+     width: 60%;
+     margin: 0 auto;
+     height: 2em;
+     font-size: 1.1rem
+}
+
+/* Lesson 57 */
+input[type="submit"] {
+     display: block;
+     width: 60%;
+     margin: 0 auto;
+}
+
+/* Lesson 56 */
+input[type="submit"] {
+     display: block;
+     width: 60%
+}
+
 /* Lesson 55 */
 body {
      width: 100%;
