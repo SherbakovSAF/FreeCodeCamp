@@ -1,3 +1,18 @@
+// Lesson 32
+// class MyComponent extends React.Component {
+//    constructor(props) {
+//      super(props);
+//    }
+//    componentWillMount() {
+//      // Change code below this line
+//      console.log("Start")
+//      // Change code above this line
+//    }
+//    render() {
+//      return <div />
+//    }
+//  };
+
 // Lesson 31
 // class MyApp extends React.Component {
 //    constructor(props) {
