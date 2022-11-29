@@ -1,3 +1,25 @@
+// Lesson 45
+// const frontEndFrameworks = [
+//    'React',
+//    'Angular',
+//    'Ember',
+//    'Knockout',
+//    'Backbone',
+//    'Vue'
+//  ];
+ 
+//  function Frameworks() {
+//    const renderFrameworks = frontEndFrameworks.map(e => <li key={e}>{e}</li>); // Change this line
+//    return (
+//      <div>
+//        <h1>Popular Front End JavaScript Frameworks</h1>
+//        <ul>
+//          {renderFrameworks}
+//        </ul>
+//      </div>
+//    );
+//  };
+
 // Lesson 44
 // const textAreaStyles = {
 //    width: 235,
