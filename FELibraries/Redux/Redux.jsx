@@ -1,3 +1,25 @@
+// Lesson 6
+// const defaultState = {
+//     login: false,
+// };
+
+// const reducer = (state = defaultState, action) => {
+
+//     if ((action.type == "LOGIN")) {
+//         return { login: true };
+//     } else {
+//         return state;
+//     }
+// };
+
+// const store = Redux.createStore(reducer);
+
+// const loginAction = () => {
+//     return {
+//         type: "LOGIN",
+//     };
+// };
+
 // Lesson 5
 // const store = Redux.createStore(
 //    (state = {login: false}) => state
