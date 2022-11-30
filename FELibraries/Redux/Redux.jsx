@@ -1,3 +1,8 @@
+// Lesson 3
+// let action = {
+//    type: "LOGIN"
+//  }
+
 // Lesson 2
 // const store = Redux.createStore(
 //    (state = 5) => state
