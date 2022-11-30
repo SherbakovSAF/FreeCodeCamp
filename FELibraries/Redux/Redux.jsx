@@ -1,3 +1,13 @@
+// Lesson 4
+// const action = {
+//    type: 'LOGIN'
+//  }
+//  // Define an action creator here:
+ 
+//  function actionCreator() {
+//    return action
+//  }
+
 // Lesson 3
 // let action = {
 //    type: "LOGIN"
