@@ -1,3 +1,18 @@
+// Lesson 5
+// const store = Redux.createStore(
+//    (state = {login: false}) => state
+//  );
+ 
+//  const loginAction = () => {
+//    return {
+//      type: 'LOGIN'
+//    }
+//  };
+ 
+//  // Dispatch the action here:
+ 
+//  store.dispatch(loginAction())
+
 // Lesson 4
 // const action = {
 //    type: 'LOGIN'
